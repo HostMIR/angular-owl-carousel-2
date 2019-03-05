@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emalikterzi/angular-owl-carousel-2.git"
+    "url": "git+https://github.com/HostMIR/angular-owl-carousel-2.git#develop"
   },
   "author": "Enes Malik Terzi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/emalikterzi/angular-owl-carousel-2/issues"
+    "url": "https://github.com/HostMIR/angular-owl-carousel-2/issues"
   },
-  "homepage": "https://github.com/emalikterzi/angular-owl-carousel-2#readme",
+  "homepage": "https://github.com/HostMIR/angular-owl-carousel-2#readme",
   "dependencies": {
     "angular": "^1.7.4",
     "owl.carousel": "^2.3.4"
